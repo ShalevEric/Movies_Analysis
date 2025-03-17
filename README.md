@@ -54,7 +54,8 @@ Questions that I wanted to find answers to building the Dashboard were:
 ## Results and Findings
 
  Example: Choosing the year 2013 for a genre Action the best and the worst profitable movies are:
- ![Screenshot]
+  
+  ![Screenshot]](images/Slicers.png)
  
 
 [UP](#movies-analysis-dashboard)
