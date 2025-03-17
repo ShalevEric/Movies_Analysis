@@ -29,6 +29,13 @@ The primary dataset used for this analysis is the "Movie Data Homework.xlsx" fil
 3. Data cleaning and formatting.
 
 ## Exploratory Data Analysis
+Questions that I wanted to find answers to building the Dashboard were:
+- Which genres were the most profitable between the years 2012-2016
+- Which months are the most profitable between the years 2012-2016
+- Best and worst profitable movies between the years 2012-2016
+- Top 5 movies by Box Office Revenue between the years 2012-2016
+- Top 5 movies by Budget between the years 2012-2016
+- Top 5 Actors by Box Office Revenue
 
 ## Results and Findings
  
