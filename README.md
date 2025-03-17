@@ -47,7 +47,7 @@ Questions that I wanted to find answers to building the Dashboard were:
 - Best and worst profitable movies between the years 2012-2016
 - Top 5 movies by Box Office Revenue between the years 2012-2016
 - Top 5 movies by Budget between the years 2012-2016
-- Top 5 Actors by Box Office Revenue
+- Top 5 Actors by Box Office Revenue between the years 2012-2016
 
 [UP](#movies-analysis-dashboard)
 
@@ -55,7 +55,9 @@ Questions that I wanted to find answers to building the Dashboard were:
 
  Example: Choosing the year 2013 for a genre Action the best and the worst profitable movies are:
   
-  ![Screenshot](images/Slicers.jpg)
- 
+  ![Screenshot](https://github.com/user-attachments/assets/2a4a07d6-f74d-4fd5-9abb-6ebb8e335334)
+
+  ![Screenshot](https://github.com/user-attachments/assets/b4f037a2-581e-47c3-9f23-18dbb7acb0b5)
+
 
 [UP](#movies-analysis-dashboard)
