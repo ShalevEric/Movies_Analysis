@@ -59,5 +59,8 @@ Questions that I wanted to find answers to building the Dashboard were:
 
   ![Screenshot](https://github.com/user-attachments/assets/b4f037a2-581e-47c3-9f23-18dbb7acb0b5)
 
+Final Dashboard looks like the following:
+
+![Screenshot](https://github.com/user-attachments/assets/da2d25f4-7d1b-403c-b026-3d2a3800c339)
 
 [UP](#movies-analysis-dashboard)
