@@ -9,7 +9,7 @@
 + [Data Cleaning/Preparation](#data-cleaning/preparation)
 + [Exploratory Data Analysis](#exploratory-data-analysis)
 + [Results and Findings](#results-and-findings)
-+ 
+
 ## Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies and actors from 2012 to 2016 for Apple TV. 
 
